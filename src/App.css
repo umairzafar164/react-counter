@@ -1,0 +1,44 @@
+
+.division{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  background-color: coral;
+  transform: translate(-50%,-50%);
+
+ 
+ }.subbutton{
+  color :grey;
+  font-size: 70px;
+  background-color :lightgreen;
+  border: 5px solid rgb(82, 83, 79);
+  transition-duration: 0.5s;
+  text-align: center;
+  border-radius: 50px;
+  width: 100px;
+}
+.subbutton:hover{
+  color: white;
+  background-color:tomato;
+}
+.addbutton{
+  color :grey;
+  font-size: 70px;
+  border-radius: 50px;
+  background-color :lightgreen;
+  border: 5px solid rgb(82, 83, 79);
+  transition-duration: 0.5s;
+  text-align: center;
+  width: 100px;
+
+}
+.addbutton:hover{
+  color: white;
+  background-color:tomato;
+}
+
+.heading{
+  font-size: 50px;
+  color:mediumvioletred;
+  margin-left: 30px;
+}
