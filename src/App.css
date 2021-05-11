@@ -21,6 +21,7 @@
   width: 100px;
   height: 100px;
   cursor: pointer;
+  outline: none;
 }
 .action-button:hover {
   color: white;
